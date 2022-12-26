@@ -129,7 +129,7 @@ def main():  # type: () -> None
 
             runValidationLoop = True
 
-            inputURL = input("Video URL(s) (Use commas to separate links)>> ")
+            inputURL = input("Video URL(s) (Use commas to separate links) >> ")
             inputURL = inputURL.strip()
 
             URLArray = inputURL.split(',')
