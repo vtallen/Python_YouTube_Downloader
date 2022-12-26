@@ -17,3 +17,5 @@ Move to the root directory of the program then run
 ```
 python3 cli.py
 ```
+
+Downloads will be placed in a folder within your downloads folder.
